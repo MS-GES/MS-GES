@@ -35,26 +35,6 @@
 
 </div>
 
----
-
-## 🏛️ About MS GES
-
-**MS GES (Global Enterprise Solutions)** is the global capability arm of **MS Holdings**, bringing specialized talent and expertise together from India to contribute to a worldwide business ecosystem.
-
-We build environments where people learn, experience, connect, and lead — transforming individual potential into enterprise capability, and capability into global impact.
-
----
-
-## 📬 Contact & Inquiries
-
-For technical queries, collaboration, or access requests regarding MS Holdings repositories:
-
-* 🌐 **Website:** [www.ms-ges.com](https://www.ms-ges.com/)
-* 🏢 **Address:** MS GES, KINFRA Advanced Technology Park, Ramanattukara, Calicut, Kerala, India
-* 🛠️ **Maintained by:** MS GES Technology Department
-
----
-
 <div align="center">
   <sub>&copy; 2026 MS GES (Global Enterprise Solutions) &bull; MS Holdings. All rights reserved.</sub>
 </div>
