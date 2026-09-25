@@ -6,7 +6,6 @@
     <img alt="MS GES Logo" src="https://www.ms-ges.com/images/logo_v2.webp" width="320" />
   </picture>
 
-  <h1>MS GES</h1>
   <h3>Global Enterprise Solutions</h3>
 
   <p>
