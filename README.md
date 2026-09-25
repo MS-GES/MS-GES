@@ -23,9 +23,6 @@
     <a href="https://www.ms-ges.com/" target="_blank">
       <img src="https://img.shields.io/badge/Maintained%20By-Technology%20Department-0A192F?style=for-the-badge&logo=codeforces&logoColor=C9A44C" alt="Maintained By Tech Dept" />
     </a>
-    <a href="https://www.ms-ges.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Location-Calicut%2C%20India-0A192F?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location" />
-    </a>
   </p>
 
   <p align="center">
