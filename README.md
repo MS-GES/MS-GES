@@ -5,8 +5,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://www.ms-ges.com/images/logo_v2.webp">
     <img alt="MS GES Logo" src="https://www.ms-ges.com/images/logo_v2.webp" width="320" />
   </picture>
-
-  <h3>Global Enterprise Solutions</h3>
+  
+  <h1>MS GES</h1>
 
   <p>
     <em>Building Human Capability. Creating Global Possibility.</em>
